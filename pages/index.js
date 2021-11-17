@@ -169,12 +169,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Rutter React Quickstart</title>
+        <title>POBA Quick Connect</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://rutterapi.com">Rutter!</a>
+          Welcome to <a href="https://pobatag.com">POBA Tag!</a>
         </h1>
         <div
           style={{
@@ -184,7 +184,7 @@ export default function Home() {
           }}
           className={styles.description}
         >
-          <div>Test out Rutter Link & API: </div>
+          <div>Test out POBA NFT Connection services</div>
           <Button style={{ marginTop: 4 }} onClick={() => open()}>
             Connect with Rutter
           </Button>
